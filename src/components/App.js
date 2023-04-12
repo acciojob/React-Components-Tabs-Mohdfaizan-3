@@ -2,7 +2,7 @@ import React from "react";
 import Tabs from "./Tabs";
 const App = () => {
   return (
-    <div className="tabs">
+    <div>
       <Tabs />
     </div>
   );
