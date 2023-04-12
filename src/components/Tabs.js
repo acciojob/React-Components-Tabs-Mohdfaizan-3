@@ -19,7 +19,7 @@ const Tabs = () => {
           </div>
         ))}
       </div>
-      <div className="viewport">{tabs[activeTab].label}</div>
+      <div className="viewport">Pages Go Here gi</div>
     </>
   );
 };
